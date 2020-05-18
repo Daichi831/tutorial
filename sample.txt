@@ -4,4 +4,4 @@ tutorial
 tutorial
 tutorial
 tutorial
-
+add 変更をインデックスに登録する
